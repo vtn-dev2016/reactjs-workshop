@@ -8,7 +8,7 @@ cd warehouse<br/>
 npm install<br/>
 npm start<br/>
 cd ~<br/>
-please install docker engine and run 
+please install docker and run 
 "<b>docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=P@ssw0rd' -p 1433:1433 --name sql1 -d paramat/meetup-warehouse:1.1"</b><br/>
 cd ~<br/>
 git clone https://github.com/vtn-dev2016/reactjsMeetup.git<br/>
